@@ -144,13 +144,6 @@ const DEFAULT_SITE_DATA = {
       category: "Signature Studio",
       title: "Gowsi Makeover Studio Signature Work",
       image: "assets/images/reels/reel4.jpg"
-    },
-    {
-      id: "reel-5",
-      url: "https://www.instagram.com/reel/DPBF7J0DZDZ/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
-      category: "Pre-Wedding Shoot",
-      title: "Mahalakshmi & Gowtham Glossy Look",
-      image: "assets/images/reels/reel6.jpg"
     }
   ],
   testimonials: [
